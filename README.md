@@ -4,3 +4,4 @@
 
 - feature-B
 
+- feature-C
